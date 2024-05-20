@@ -292,7 +292,7 @@ title_markdown = ("""
 
 tos_markdown = ("""
 ### Terms of use
-By using this service, users are required to agree to the following terms:
+By using this service, users are required to agree to the following terms(pk):
 The service is a research preview intended for non-commercial use only. It only provides limited safety measures and may generate offensive content. It must not be used for any illegal, harmful, violent, racist, or sexual purposes. The service may collect user dialogue data for future research.
 Please click the "Flag" button if you get any inappropriate answer! We will collect those to keep improving our moderator.
 For an optimal experience, please use desktop computers for this demo, as mobile devices may compromise its quality.
